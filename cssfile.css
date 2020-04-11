@@ -1,0 +1,18 @@
+.floater{
+  background-color: #C0C0C0;
+  color: #000;
+  border-radius: 5px;
+  stroke-opacity:1;
+  stroke:black;
+
+  margin: 10px 10px 0px 0px;
+  padding: 6px;
+}
+.random {
+  margin: 5px 0px 0px 2px;
+}
+p {
+    /* other styles goes here... */
+    display: inline-block;
+    vertical-align: top;
+}
